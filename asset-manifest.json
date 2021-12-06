@@ -1,13 +1,13 @@
 {
-  "main.css": "/test/static/css/main.ac33ccbe.chunk.css",
-  "main.js": "/test/static/js/main.00749526.chunk.js",
-  "main.js.map": "/test/static/js/main.00749526.chunk.js.map",
-  "static/js/1.81fbc468.chunk.js": "/test/static/js/1.81fbc468.chunk.js",
-  "static/js/1.81fbc468.chunk.js.map": "/test/static/js/1.81fbc468.chunk.js.map",
-  "runtime~main.js": "/test/static/js/runtime~main.5ad1e219.js",
-  "runtime~main.js.map": "/test/static/js/runtime~main.5ad1e219.js.map",
-  "static/css/main.ac33ccbe.chunk.css.map": "/test/static/css/main.ac33ccbe.chunk.css.map",
-  "index.html": "/test/index.html",
-  "precache-manifest.bf07dad6c157bf45c131e1e330c4ed71.js": "/test/precache-manifest.bf07dad6c157bf45c131e1e330c4ed71.js",
-  "service-worker.js": "/test/service-worker.js"
+  "main.css": "/React-Twitter/static/css/main.ac33ccbe.chunk.css",
+  "main.js": "/React-Twitter/static/js/main.00749526.chunk.js",
+  "main.js.map": "/React-Twitter/static/js/main.00749526.chunk.js.map",
+  "static/js/1.81fbc468.chunk.js": "/React-Twitter/static/js/1.81fbc468.chunk.js",
+  "static/js/1.81fbc468.chunk.js.map": "/React-Twitter/static/js/1.81fbc468.chunk.js.map",
+  "runtime~main.js": "/React-Twitter/static/js/runtime~main.b1196931.js",
+  "runtime~main.js.map": "/React-Twitter/static/js/runtime~main.b1196931.js.map",
+  "static/css/main.ac33ccbe.chunk.css.map": "/React-Twitter/static/css/main.ac33ccbe.chunk.css.map",
+  "index.html": "/React-Twitter/index.html",
+  "precache-manifest.07a79970a791e8f5504ff6909e75f9de.js": "/React-Twitter/precache-manifest.07a79970a791e8f5504ff6909e75f9de.js",
+  "service-worker.js": "/React-Twitter/service-worker.js"
 }
